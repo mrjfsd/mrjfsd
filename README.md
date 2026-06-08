@@ -44,8 +44,8 @@
 - Strong foundation in Data Structures, Algorithms, OOP, DBMS, and Operating Systems.
 - 3rd year CSE student at NIE Mysore, graduating 2026 | CGPA: 8.0/10.
 - Open to Software Engineering, Full-Stack Development, and Product Engineering opportunities.
-- LeetCode -> **[chidorixzoro](https://leetcode.com/u/chidorixzoro/)**
-- LinkedIn -> **[Kaleem](https://www.linkedin.com/in/rayyan-jameel-521b06341)**
+- LeetCode -> **[Rayyanr6](https://leetcode.com/u/Rayyanr6/)**
+- LinkedIn -> **[Mohammad Rayyan Jameel](https://www.linkedin.com/in/rayyan-jameel-521b06341)**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />

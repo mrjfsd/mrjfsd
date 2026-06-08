@@ -39,11 +39,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=What+I+Do&pause=1000&duration=11000" alt="What I Do" />
 </p>
 
-- Build full-stack applications using MERN, Next.js and modern backend technologies.
-- Develop AI-powered tools that solve practical developer and productivity problems.
-- Strong foundation in Data Structures, Algorithms, OOP, DBMS and Operating Systems.
-- Software Engineering Intern @ Fluxon, contributing to production-grade internal platforms.
-- Open to Software Engineering, Full-Stack Development and Product Engineering opportunities.
+- Build full-stack web applications using the MERN stack and RESTful API architecture.
+- Engineer IoT systems with ESP32, MQTT, and Arduino Cloud for real-time automation.
+- Strong foundation in Data Structures, Algorithms, OOP, DBMS, and Operating Systems.
+- 3rd year CSE student at NIE Mysore, graduating 2026 | CGPA: 8.0/10.
+- Open to Software Engineering, Full-Stack Development, and Product Engineering opportunities.
 - LeetCode -> **[chidorixzoro](https://leetcode.com/u/chidorixzoro/)**
 - LinkedIn -> **[Kaleem](https://www.linkedin.com/in/rayyan-jameel-521b06341)**
 

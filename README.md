@@ -18,14 +18,14 @@
 
 <!-- Typing headline -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaleem-m5">
+  <a href="https://www.linkedin.com/in/rayyan-jameel-521b06341">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&duration=11000&color=00FF7F&center=true&vCenter=true&width=700&lines=I+Turn+Complex+Ideas+Into+Production+Systems;Full-Stack+%C2%B7+SaaS+%C2%B7+ERPs+%C2%B7+APIs+%C2%B7+Blockchain" alt="typing headline" />
   </a>
 </p>
 
 <!-- Socials + profile views -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaleem-m5">
+  <a href="https://www.linkedin.com/in/rayyan-jameel-521b06341">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -45,7 +45,7 @@
 - Software Engineering Intern @ Fluxon, contributing to production-grade internal platforms.
 - Open to Software Engineering, Full-Stack Development and Product Engineering opportunities.
 - LeetCode -> **[chidorixzoro](https://leetcode.com/u/chidorixzoro/)**
-- LinkedIn -> **[Kaleem](https://www.linkedin.com/in/kaleem-m5)**
+- LinkedIn -> **[Kaleem](https://www.linkedin.com/in/rayyan-jameel-521b06341)**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Kaleem M" />
+  <img src="./assets/banner.svg" alt="Rayyan Jameel" />
 </p>
 
 <!-- Role pills — trailing spacer equalizes row so Systems Builder sits at row center -->
